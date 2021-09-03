@@ -24,6 +24,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 ## 2009
 
 * DEF CON 17 - [RFID Mythbusting - Chris Paget](https://www.youtube.com/watch?v=SMm4g5yhDoY)
+* 26C3 - [Legic Prime: Obscurity in Depth - Henryk Plötz/Karsten Nohl](https://fahrplan.events.ccc.de/congress/2009/Fahrplan/events/3709.en.html)
 
 ## 2010
 
