@@ -9,6 +9,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 ## Maintainers
 
 [doegox](https://twitter.com/doegox)  
+[herrmann1001](https://twitter.com/herrmann1001)  
 *RFID Hacking by Iceman* Discord members  
 
 ## 2005
@@ -89,4 +90,4 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 ## Contributing
 
 For any missing conference, create a pull request and we will add it there.
-Ping us on Twitter: [@doegox](https://twitter.com/doegox)
+Ping us on Twitter: [@doegox](https://twitter.com/doegox) and [herrmann1001](https://twitter.com/herrmann1001)
