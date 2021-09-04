@@ -30,6 +30,12 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 
 * DEF CON 18 - [Extreme-Range RFID Tracking - Chris Paget](https://www.youtube.com/watch?v=q9_8F_BKeto)
 
+## 2012
+
+* DEFCON 20 - [NFC Hacking: The Easy Way - Eddie Lee](https://www.youtube.com/watch?v=7ElZBI9PufY)
+* DEFCON 20 - [Don't Stand So Close To Me: An Analysis of the NFC Attack Surface - Charlie Miller](https://www.youtube.com/watch?v=16FKOQ1gx68)
+* HES 2012 - [Hacking the NFC credit cards for fun and debit - Renaud Lifchitz](https://www.youtube.com/watch?v=VWIzW0rRw_s)
+
 ## 2013
 
 * DEF CON 21 - [Francis Brown - RFID Hacking Live Free or RFID Hard](https://www.youtube.com/watch?v=duzpEtkmAnI)
@@ -41,6 +47,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 ## 2015
 
 * DEF CON 23 - [Craig Young - How to Train Your RFID Hacking Tools](https://www.youtube.com/watch?v=kVMAgiJlQkI)
+* BlackHat US 2015 - [Crash & Pay: Owning and Cloning Payment Devices - Peter Fillmore](https://www.youtube.com/watch?v=SLGl9X9LBv4)
 
 ## 2016
 
@@ -48,8 +55,9 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 
 ## 2017
 
+* DEF CON 25 - [Man in the NFC - Haoqi Shan, Jian Yuan](https://www.youtube.com/watch?v=pXmmNe5uo-4)
 * DEF CON 25 - [Real time RFID Cloning in the Field - Dennis Maldonado](https://www.youtube.com/watch?v=kUduHIygbY8)
-* [44CON - Cracking HiTag2 Crypto - Kevin Sheldrake](https://www.youtube.com/watch?v=abx1hQDCKyg)
+* 44CON - [Cracking HiTag2 Crypto - Kevin Sheldrake](https://www.youtube.com/watch?v=abx1hQDCKyg)
 
 ## 2018
 
@@ -57,6 +65,9 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * HITBGSEC 2018 - [NFC Payments: The Art Of Relay And Replay Attacks - Salvador Mendoza](https://www.youtube.com/watch?v=e023wGfVaE0)
 * TR18 - [NFC Payments: The Art Of Relay And Replay Attacks - Salvador Mendoza & Leigh-Anne Galloway](https://www.youtube.com/watch?v=mWPwuBsFNrc)
 * BlackAlps 2018 - [Unlocking Secrets Of The Proxmark3 RDV4.0 - Christian Herrmann And Kevin Barker](https://www.youtube.com/watch?v=BBRE-bnNDKQ)
+* LCA 2018 - [Tap On Reverse Engineering - Michael Farrell](https://www.youtube.com/watch?v=qVvNdfKRw7M)
+* CONFidence 2018 - [A 2018 practical guide to hacking RFID/NFC - Sławomir Jasek](https://www.youtube.com/watch?v=7GFhgv5jfZk)
+* HOPE 2018 - [Owning NFC Toys I Own: A Case Study - Vitorio Miliano](https://www.youtube.com/watch?v=0xawSK2dKqk)
 
 ## 2019
 
