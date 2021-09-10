@@ -68,6 +68,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * LCA 2018 - [Tap On Reverse Engineering - Michael Farrell](https://www.youtube.com/watch?v=qVvNdfKRw7M)
 * CONFidence 2018 - [A 2018 practical guide to hacking RFID/NFC - Sławomir Jasek](https://www.youtube.com/watch?v=7GFhgv5jfZk)
 * HOPE 2018 - [Owning NFC Toys I Own: A Case Study - Vitorio Miliano](https://www.youtube.com/watch?v=0xawSK2dKqk)
+* INFILTRATE 2018 - [Ghost in the locks - Tomi Tuominen, Timo Hirvonen](https://vimeo.com/267613809)
 
 ## 2019
 
