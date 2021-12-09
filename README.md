@@ -95,6 +95,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * SSTIC 2019 - [EEPROM: It Will All End in Tears — Christian Herrmann, Philippe Teuwen](https://static.sstic.org/videos2021/1080p/vostfr-eeprom_it_will_all_end_in_tears.mp4)
   * French, English with Fr Sub
 * DEF CON 29 - RF Village talk [Woody - How low can you Go Vechicle Low Frequency Signals With Portapak](https://www.youtube.com/watch?v=2eLQmk-r1XU)
+* Hardwear.io - [EEPROM: It Will All End in Tears — Christian Herrmann, Philippe Teuwen](https://youtu.be/zZp5h0Tdkhk)
 
 # Youtube Channels
 
