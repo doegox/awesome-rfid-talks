@@ -74,6 +74,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 
 * NULLCON Goa 2019 - [Unlocking secrets of the Proxmark3 RDV4.0 - Kevin Barker & Christian Herrmann](https://www.youtube.com/watch?v=1rTv8lyEtv8)
 * DEF CON 27 - [Basics of Hacking Physical Access Control Systems - Babak Javadi](https://www.youtube.com/watch?v=LS5OQHUJaJE)
+* DEF CON 27 - [WCTF DEFCON 27 Demo Iceman](https://www.youtube.com/watch?v=bMZY_R47phY)
 * PTS2019 - [Unlocking secrets of the Proxmark3 RDV4 - Christian Herrmann](https://passthesalt.ubicast.tv/videos/unlocking-secrets-of-the-proxmark3-rdv4/)
 * PTS2019 - [Reversing a Firmware uploader & others NFC stories - Aurélien Pocheville](https://passthesalt.ubicast.tv/videos/reversing-a-firmware-uploader-others-nfc-stories/)
 * HITBCyberWeek - [Building A GEN2 UHF RFID Reader With SDR - Adam Laurie](https://www.youtube.com/watch?v=QKi1OH8Zstk)
