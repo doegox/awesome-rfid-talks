@@ -100,9 +100,11 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 
 # Youtube Channels
 
-* [Quentyn Taylor](https://www.youtube.com/channel/UCL91C3IZDv3wfj2ABhdRIrw)
-* [Chris Herrmann](https://www.youtube.com/channel/UCwukH1pDTWsv2DuT18dE1RA)
-* [Dangerous Things](https://www.youtube.com/channel/UCiMeqSKIPTvyOMZe1n4Pp4A)
+* [Quentyn Taylor](https://www.youtube.com/c/QuentynTaylor)
+* [Chris Herrmann](https://www.youtube.com/c/ChrisHerrmann1001)
+* [Dangerous Things](https://www.youtube.com/c/Dangerousthings)
+* [DeviantOllam](https://www.youtube.com/user/DeviantOllam)
+* [TheNotSoCivilEngr](https://www.youtube.com/user/amihirata)
 
 ## Contributing
 
