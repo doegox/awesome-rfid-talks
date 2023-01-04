@@ -88,6 +88,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * EKO14 - [NFC Payments: The Art of Relay and Replay Attacks - Salvador Mendoza](https://www.youtube.com/watch?v=27TWFDWtV8E)
   * Spanish
 * PTS2020 - [Pique curiosity, not diabetic fingers -  Axelle Apvrille, Travis Goodspeed](https://passthesalt.ubicast.tv/videos/2020-pique-curiosity-not-diabetic-fingers/)
+* WOOT'20 - [NFCGate: Opening the Door for NFC Security Research with a Smartphone-Based Toolkit - Klee, Roussos et al.](https://www.usenix.org/conference/woot20/presentation/klee)
 
 ## 2021
 
