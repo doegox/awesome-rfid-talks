@@ -99,6 +99,10 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * DEF CON 29 - RF Village talk [Woody - How low can you Go Vechicle Low Frequency Signals With Portapak](https://www.youtube.com/watch?v=2eLQmk-r1XU)
 * Hardwear.io - [EEPROM: It Will All End in Tears — Christian Herrmann, Philippe Teuwen](https://youtu.be/zZp5h0Tdkhk)
 
+## 2022
+
+* DEF CON 30 - RF Village talk [Langston Clement & Daniel Goga - Pwning  RFID Physical Access 6FT and Beyond](https://www.youtube.com/watch?v=J6vTovVogq4)
+
 # Youtube Channels
 
 * [Quentyn Taylor](https://www.youtube.com/c/QuentynTaylor)
