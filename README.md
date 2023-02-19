@@ -103,6 +103,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 
 * DEF CON 30 - RF Village talk [Langston Clement & Daniel Goga - Pwning  RFID Physical Access 6FT and Beyond](https://www.youtube.com/watch?v=J6vTovVogq4)
 * DEF CON 30 - [Miana E Windall, Micsen - Digital Skeleton Keys](https://www.youtube.com/watch?v=G2EE_yA7OyI)
+* DEF CON 30 - RF Village talk [Iceman & Kevin Barker - Rip and tear](https://www.youtube.com/watch?v=MKSXSKQHz6o)
 
 # Youtube Channels
 
