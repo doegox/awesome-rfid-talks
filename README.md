@@ -73,6 +73,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * CONFidence 2018 - [A 2018 practical guide to hacking RFID/NFC - Sławomir Jasek](https://www.youtube.com/watch?v=7GFhgv5jfZk)
 * HOPE 2018 - [Owning NFC Toys I Own: A Case Study - Vitorio Miliano](https://www.youtube.com/watch?v=0xawSK2dKqk)
 * INFILTRATE 2018 - [Ghost in the locks - Tomi Tuominen, Timo Hirvonen](https://vimeo.com/267613809)
+* OzSecCon 2018 - [Project Walrus, an RFID and Contactless Card Cloning App - Daniel Underhay, Matthew Daley](https://www.youtube.com/watch?v=PKXlqKDk_BU)
 
 ## 2019
 
