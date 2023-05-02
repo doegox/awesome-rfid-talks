@@ -38,16 +38,20 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 
 ## 2013
 
-* DEF CON 21 - [Francis Brown - RFID Hacking Live Free or RFID Hard](https://www.youtube.com/watch?v=duzpEtkmAnI)
+* DEF CON 21 - [RFID Hacking Live Free or RFID Hard - Francis Brown](https://www.youtube.com/watch?v=duzpEtkmAnI)
+* BlackHat US 2013 - [RFID Hacking: Live Free or RFID Hard - Francis Brown](https://www.youtube.com/watch?v=LcY3VJqi0Xo)
 
 ## 2014
 
 * OSHUG 31 - [RFIDler: A Software Defined RFID Reader/Writer/Emulator - Adam Laurie and Zac Franken](https://www.youtube.com/watch?v=dmvTKWOVrIo)
+* Ekoparty 2014 - [Hacking RFID Billing Schemes For Fun and Free Rides - Márcio Almeida](https://www.youtube.com/watch?v=epSJvZLO16Q)
+* RSA 2014 - [Fun with Proxmark3 - Daniel Ayoub](https://www.youtube.com/watch?v=1Xz5HgOL_Gc)
 
 ## 2015
 
 * DEF CON 23 - [Craig Young - How to Train Your RFID Hacking Tools](https://www.youtube.com/watch?v=kVMAgiJlQkI)
 * BlackHat US 2015 - [Crash & Pay: Owning and Cloning Payment Devices - Peter Fillmore](https://www.youtube.com/watch?v=SLGl9X9LBv4)
+* BlackHat US 2015 - [Breaking Access Controls With BLEKey - Eric Evenchick & Mark Baseggio](https://www.youtube.com/watch?v=iH7VPUNz-dU)
 
 ## 2016
 
