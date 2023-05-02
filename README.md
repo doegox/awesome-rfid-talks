@@ -121,5 +121,4 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 
 ## Contributing
 
-For any missing conference, create a pull request and we will add it there.
-Ping us on Twitter: [@doegox](https://twitter.com/doegox) and [herrmann1001](https://twitter.com/herrmann1001)
+For any missing conference, create a pull request or an issue and we will add it here.
