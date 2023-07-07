@@ -110,6 +110,10 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * DEF CON 30 - [Miana E Windall, Micsen - Digital Skeleton Keys](https://www.youtube.com/watch?v=G2EE_yA7OyI)
 * DEF CON 30 - RF Village talk [Iceman & Kevin Barker - Rip and tear](https://www.youtube.com/watch?v=MKSXSKQHz6o)
 
+## 2023
+
+* HardwearIO - ["Un-fare Advantage” - Hacking The MBTA CharlieCard From 2008 To Present - Bobby Rauch](https://www.youtube.com/watch?v=me6FyrDRlD4)
+
 # Youtube Channels
 
 * [Quentyn Taylor](https://www.youtube.com/@QuentynTaylor)
