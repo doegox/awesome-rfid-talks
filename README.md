@@ -117,7 +117,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 # Youtube Channels
 
 * [Quentyn Taylor](https://www.youtube.com/@QuentynTaylor)
-* [Chris Herrmann](https://www.youtube.com/@iceman1001)
+* [Iceman](https://www.youtube.com/@iceman1001)
 * [Dangerous Things](https://www.youtube.com/@Dangerousthings)
 * [DeviantOllam](https://www.youtube.com/@DeviantOllam)
 * [TheNotSoCivilEngr](https://www.youtube.com/@amihirata)
