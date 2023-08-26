@@ -89,10 +89,11 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 ## 2020
 
 * DEF CON 28 - [Ghosting the PACS-man: New Tools and Techniques - Omikron and Iceman](https://www.youtube.com/watch?v=ghiHXK4GEzE)
+* DEF CON 28 - [Beyond Root - Christopher Wade](https://www.youtube.com/watch?v=aLe-xW-Ws4c)
 * PACSEC 2020 - [RFID Security Panel - Adam Laurie , Christian Herrmann, Babak Javadi, Samy Kamkar, Phillippe Teuwen, Chrissy Morgan](https://www.youtube.com/watch?v=uMCBsU6LPxk)
 * EKO14 - [NFC Payments: The Art of Relay and Replay Attacks - Salvador Mendoza](https://www.youtube.com/watch?v=27TWFDWtV8E)
   * Spanish
-* PTS2020 - [Pique curiosity, not diabetic fingers -  Axelle Apvrille, Travis Goodspeed](https://passthesalt.ubicast.tv/videos/2020-pique-curiosity-not-diabetic-fingers/)
+* PTS2020 - [Pique curiosity, not diabetic fingers - Axelle Apvrille, Travis Goodspeed](https://passthesalt.ubicast.tv/videos/2020-pique-curiosity-not-diabetic-fingers/)
 * WOOT'20 - [NFCGate: Opening the Door for NFC Security Research with a Smartphone-Based Toolkit - Klee, Roussos et al.](https://www.usenix.org/conference/woot20/presentation/klee)
 
 ## 2021
