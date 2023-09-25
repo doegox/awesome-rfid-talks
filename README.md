@@ -123,6 +123,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * [DeviantOllam](https://www.youtube.com/@DeviantOllam)
 * [TheNotSoCivilEngr](https://www.youtube.com/@amihirata)
 * [Penthertz](https://www.youtube.com/@Penthertz)
+* [MTools Tec](https://www.youtube.com/@mtoolstec)
 
 ## Contributing
 
