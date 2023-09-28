@@ -72,6 +72,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * LCA 2018 - [Tap On Reverse Engineering - Michael Farrell](https://www.youtube.com/watch?v=qVvNdfKRw7M)
 * CONFidence 2018 - [A 2018 practical guide to hacking RFID/NFC - Sławomir Jasek](https://www.youtube.com/watch?v=7GFhgv5jfZk)
 * HOPE 2018 - [Owning NFC Toys I Own: A Case Study - Vitorio Miliano](https://www.youtube.com/watch?v=0xawSK2dKqk)
+* HOPE 2018 - [Breath of the RF Field: Hacking Amiibo with Software-Defined Radio - James Chambers](hhttps://www.youtube.com/watch?v=-ZdkYLRydoI)
 * INFILTRATE 2018 - [Ghost in the locks - Tomi Tuominen, Timo Hirvonen](https://vimeo.com/267613809)
 * OzSecCon 2018 - [Project Walrus, an RFID and Contactless Card Cloning App - Daniel Underhay, Matthew Daley](https://www.youtube.com/watch?v=PKXlqKDk_BU)
 
@@ -114,6 +115,11 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 ## 2023
 
 * HardwearIO - ["Un-fare Advantage” - Hacking The MBTA CharlieCard From 2008 To Present - Bobby Rauch](https://www.youtube.com/watch?v=me6FyrDRlD4)
+* DEF CON 31 - [Infinite Money Glitch - Hacking Transit Cards - Bertocchi, Campbell, Gibson, Harris ](https://youtu.be/1JT_lTfK69Q?si=PQ6LuGoVwXDPVW0F)
+* DEF CON 31 - [Unlocking Doors from Half a Continent Away - Trevor Stevado, Sam Haskins](https://youtu.be/rogtZjpyoVQ?si=OIvppFGb9-HGcnRw)
+* DEF CON 31 - [Contactless Overflow Code Execution in Payment Terminals & ATMs - Josep Rodriguez](https://youtu.be/eV76vObO2IM?si=7AMxAxnW4NQuj8jP)
+* DEF CON 31 - [Badge of Shame Breaking into Secure Facilities with OSDP - Dan Petro, David Vargas](https://youtu.be/zNpM_l5l0sE?si=n0gzfZPAQUC4IgT5)
+* DEF CON 31 - War Stories [Designing RFID Implants Flipping the Bird Opens Doors - Miana Ella Windall](https://youtu.be/OyRxapMjLP0?si=jhMzZSN_gM2-SjC9)
 
 # Youtube Channels
 
