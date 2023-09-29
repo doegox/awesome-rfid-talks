@@ -18,7 +18,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 
 ## 2007
 
-* LayerOne 2007 - [Adam Laurie - RFIDiots](https://www.youtube.com/watch?v=3vAvesYoHeo)
+* LayerOne 2007 - [RFIDiots - Adam Laurie](https://www.youtube.com/watch?v=3vAvesYoHeo)
 * DEF CON 15 - [Hacking your Access Control Reader - Zac Franken](https://www.youtube.com/watch?v=Bttr7fEfxiE)
 
 ## 2009
@@ -44,18 +44,18 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 ## 2014
 
 * OSHUG 31 - [RFIDler: A Software Defined RFID Reader/Writer/Emulator - Adam Laurie and Zac Franken](https://www.youtube.com/watch?v=dmvTKWOVrIo)
-* Ekoparty 2014 - [Hacking RFID Billing Schemes For Fun and Free Rides - Márcio Almeida](https://www.youtube.com/watch?v=epSJvZLO16Q)
+* Ekoparty 2014 - [Hacking RFID Billing Schemes For Fun and Free Rides - Márcio Almeida](https://www.youtube.com/watch?v=epSJvZLO16Q) 🇪🇸
 * RSA 2014 - [Fun with Proxmark3 - Daniel Ayoub](https://www.youtube.com/watch?v=1Xz5HgOL_Gc)
 
 ## 2015
 
-* DEF CON 23 - [Craig Young - How to Train Your RFID Hacking Tools](https://www.youtube.com/watch?v=kVMAgiJlQkI)
+* DEF CON 23 - [How to Train Your RFID Hacking Tools - Craig Young](https://www.youtube.com/watch?v=kVMAgiJlQkI)
 * BlackHat US 2015 - [Crash & Pay: Owning and Cloning Payment Devices - Peter Fillmore](https://www.youtube.com/watch?v=SLGl9X9LBv4)
 * BlackHat US 2015 - [Breaking Access Controls With BLEKey - Eric Evenchick & Mark Baseggio](https://www.youtube.com/watch?v=iH7VPUNz-dU)
 
 ## 2016
 
-* DEF CON 24 - [Salvador Mendoza - Samsung Pay: Tokenized Numbers, Flaws and Issues](https://www.youtube.com/watch?v=BqjyewIEFSc)
+* DEF CON 24 - [Samsung Pay: Tokenized Numbers, Flaws and Issues - Salvador Mendoza](https://www.youtube.com/watch?v=BqjyewIEFSc)
 
 ## 2017
 
@@ -86,32 +86,30 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * HITBCyberWeek - [Building A GEN2 UHF RFID Reader With SDR - Adam Laurie](https://www.youtube.com/watch?v=QKi1OH8Zstk)
 * BSides Belfast 2019 - [New Attacks On The MIFARE DESFire EV1 Smartcard Used In Public Transportation - Rory Flynn](https://www.youtube.com/watch?v=ZSrOq40z1i8)
 * Kawaiicon 2019 - [Access Control on Sesame Street - Gallagher/Cardax access control system research - Matthew Daley](https://www.youtube.com/watch?v=brhXqyidiKo)
-* Ekoparty 2019 - [Spanish - NFC analysis on transport systems in Argentina](https://www.youtube.com/watch?v=XkKud0jAzCg)
+* Ekoparty 2019 - [NFC analysis on transport systems in Argentina - Dan Borgogno](https://www.youtube.com/watch?v=XkKud0jAzCg) 🇪🇸
 
 ## 2020
 
 * DEF CON 28 - [Ghosting the PACS-man: New Tools and Techniques - Omikron and Iceman](https://www.youtube.com/watch?v=ghiHXK4GEzE)
 * DEF CON 28 - [Beyond Root - Christopher Wade](https://www.youtube.com/watch?v=aLe-xW-Ws4c)
 * PACSEC 2020 - [RFID Security Panel - Adam Laurie , Christian Herrmann, Babak Javadi, Samy Kamkar, Phillippe Teuwen, Chrissy Morgan](https://www.youtube.com/watch?v=uMCBsU6LPxk)
-* EKO14 - [NFC Payments: The Art of Relay and Replay Attacks - Salvador Mendoza](https://www.youtube.com/watch?v=27TWFDWtV8E)
-  * Spanish
+* EKO14 - [NFC Payments: The Art of Relay and Replay Attacks - Salvador Mendoza](https://www.youtube.com/watch?v=27TWFDWtV8E) 🇪🇸
 * PTS2020 - [Pique curiosity, not diabetic fingers - Axelle Apvrille, Travis Goodspeed](https://passthesalt.ubicast.tv/videos/2020-pique-curiosity-not-diabetic-fingers/)
 * WOOT'20 - [NFCGate: Opening the Door for NFC Security Research with a Smartphone-Based Toolkit - Klee, Roussos et al.](https://www.usenix.org/conference/woot20/presentation/klee)
 
 ## 2021
 
-* DEF CON 29 - [Babak Javadi, Nick Draffen, Eric Bettse, Anze Jensterle - The PACS man Comes For Us All](https://www.youtube.com/watch?v=NARJrwX_KFY)
-* DEF CON 29 - [Salvador Mendoza - PINATA PIN Automatic Try Attack](https://www.youtube.com/watch?v=VOIvEqjJNOY) + [Live](https://www.youtube.com/watch?v=meRL_JXDQpk)
-* SSTIC 2019 - [EEPROM: It Will All End in Tears — Christian Herrmann, Philippe Teuwen](https://static.sstic.org/videos2021/1080p/vostfr-eeprom_it_will_all_end_in_tears.mp4)
-  * French, English with Fr Sub
-* DEF CON 29 - RF Village talk [Woody - How low can you Go Vechicle Low Frequency Signals With Portapak](https://www.youtube.com/watch?v=2eLQmk-r1XU)
+* DEF CON 29 - [The PACS man Comes For Us All - Babak Javadi, Nick Draffen, Eric Bettse, Anze Jensterle](https://www.youtube.com/watch?v=NARJrwX_KFY)
+* DEF CON 29 - [PINATA PIN Automatic Try Attack - Salvador Mendoza](https://www.youtube.com/watch?v=VOIvEqjJNOY) + [Live](https://www.youtube.com/watch?v=meRL_JXDQpk)
+* SSTIC 2019 - [EEPROM: It Will All End in Tears — Christian Herrmann, Philippe Teuwen](https://static.sstic.org/videos2021/1080p/vostfr-eeprom_it_will_all_end_in_tears.mp4) 🇫🇷/🇬🇧
+* DEF CON 29 - RF Village talk [How low can you Go Vechicle Low Frequency Signals With Portapak - Woody](https://www.youtube.com/watch?v=2eLQmk-r1XU)
 * Hardwear.io - [EEPROM: It Will All End in Tears — Christian Herrmann, Philippe Teuwen](https://youtu.be/zZp5h0Tdkhk)
 
 ## 2022
 
-* DEF CON 30 - RF Village talk [Langston Clement & Daniel Goga - Pwning  RFID Physical Access 6FT and Beyond](https://www.youtube.com/watch?v=J6vTovVogq4)
-* DEF CON 30 - [Miana E Windall, Micsen - Digital Skeleton Keys](https://www.youtube.com/watch?v=G2EE_yA7OyI)
-* DEF CON 30 - RF Village talk [Iceman & Kevin Barker - Rip and tear](https://www.youtube.com/watch?v=MKSXSKQHz6o)
+* DEF CON 30 - RF Village talk [Pwning  RFID Physical Access 6FT and Beyond - Langston Clement & Daniel Goga](https://www.youtube.com/watch?v=J6vTovVogq4)
+* DEF CON 30 - [Digital Skeleton Keys - Miana E Windall, Micsen](https://www.youtube.com/watch?v=G2EE_yA7OyI)
+* DEF CON 30 - RF Village talk [Rip and tear - Iceman & Kevin Barker](https://www.youtube.com/watch?v=MKSXSKQHz6o)
 
 ## 2023
 
