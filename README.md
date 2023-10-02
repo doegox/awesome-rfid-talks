@@ -50,8 +50,10 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 ## 2015
 
 * DEF CON 23 - [How to Train Your RFID Hacking Tools - Craig Young](https://www.youtube.com/watch?v=kVMAgiJlQkI)
+* DEF CON 23 - [RFIDiggity - Pentester Guide to Hacking HF/NFC and UHF RFID - Fran Brown & Shubham Shah](https://www.youtube.com/watch?v=7o38hyQWw6g)
 * BlackHat US 2015 - [Crash & Pay: Owning and Cloning Payment Devices - Peter Fillmore](https://www.youtube.com/watch?v=SLGl9X9LBv4)
 * BlackHat US 2015 - [Breaking Access Controls With BLEKey - Eric Evenchick & Mark Baseggio](https://www.youtube.com/watch?v=iH7VPUNz-dU)
+
 
 ## 2016
 
