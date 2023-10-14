@@ -77,6 +77,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * HOPE 2018 - [Breath of the RF Field: Hacking Amiibo with Software-Defined Radio - James Chambers](hhttps://www.youtube.com/watch?v=-ZdkYLRydoI)
 * INFILTRATE 2018 - [Ghost in the locks - Tomi Tuominen, Timo Hirvonen](https://vimeo.com/267613809)
 * OzSecCon 2018 - [Project Walrus, an RFID and Contactless Card Cloning App - Daniel Underhay, Matthew Daley](https://www.youtube.com/watch?v=PKXlqKDk_BU)
+* GPN18 CCC 2018 - [RFID/NFC-Grundlagen - A Pentesters Perspective - Gerhard Klostermeier](https://www.youtube.com/watch?v=06nal8BuB2w)
 
 ## 2019
 
