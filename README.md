@@ -90,6 +90,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * BSides Belfast 2019 - [New Attacks On The MIFARE DESFire EV1 Smartcard Used In Public Transportation - Rory Flynn](https://www.youtube.com/watch?v=ZSrOq40z1i8)
 * Kawaiicon 2019 - [Access Control on Sesame Street - Gallagher/Cardax access control system research - Matthew Daley](https://www.youtube.com/watch?v=brhXqyidiKo)
 * Ekoparty 2019 - [NFC analysis on transport systems in Argentina - Dan Borgogno](https://www.youtube.com/watch?v=XkKud0jAzCg) 🇪🇸
+* Hacker Hotel 2019 - [Nfc hacking - Thomas Roos](https://www.youtube.com/watch?v=Yus4z4szkcQ)
 
 ## 2020
 
