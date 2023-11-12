@@ -124,6 +124,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * DEF CON 31 - [Badge of Shame Breaking into Secure Facilities with OSDP - Dan Petro, David Vargas](https://youtu.be/zNpM_l5l0sE?si=n0gzfZPAQUC4IgT5)
 * DEF CON 31 - War Stories [Designing RFID Implants Flipping the Bird Opens Doors - Miana Ella Windall](https://youtu.be/OyRxapMjLP0?si=jhMzZSN_gM2-SjC9)
 * BRUCON 0X0F - [OSDP auditing for red teamers and facility managers - Knud Hojgaard](https://www.youtube.com/watch?v=uwKBKxdwJtc)
+* SAINTCON - [RFID Hacking - Iceman](https://www.youtube.com/watch?v=FlAhh_aktWU)
 
 # Youtube Channels
 
