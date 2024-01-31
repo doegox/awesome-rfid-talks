@@ -125,6 +125,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * DEF CON 31 - War Stories [Designing RFID Implants Flipping the Bird Opens Doors - Miana Ella Windall](https://youtu.be/OyRxapMjLP0?si=jhMzZSN_gM2-SjC9)
 * BRUCON 0X0F - [OSDP auditing for red teamers and facility managers - Knud Hojgaard](https://www.youtube.com/watch?v=uwKBKxdwJtc)
 * SAINTCON - [RFID Hacking - Iceman](https://www.youtube.com/watch?v=FlAhh_aktWU)
+* CHCON - [Honey the kids tried crypto - Thomas Hobson](https://www.youtube.com/watch?v=dCvwlMbKJLE)
 
 # Youtube Channels
 
