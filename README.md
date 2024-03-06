@@ -114,7 +114,6 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * DEF CON 30 - RF Village talk [Pwning  RFID Physical Access 6FT and Beyond - Langston Clement & Daniel Goga](https://www.youtube.com/watch?v=J6vTovVogq4)
 * DEF CON 30 - [Digital Skeleton Keys - Miana E Windall, Micsen](https://www.youtube.com/watch?v=G2EE_yA7OyI)
 * DEF CON 30 - RF Village talk [Rip and tear - Iceman & Kevin Barker](https://www.youtube.com/watch?v=MKSXSKQHz6o)
-* TheNotSoCivilEngr - MIFARE Classic Technical Video [Mifare classic discord video.](https://www.youtube.com/watch?v=PzYS7aHWOuU)
 
 ## 2023
 
@@ -135,6 +134,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * [Dangerous Things](https://www.youtube.com/@Dangerousthings)
 * [DeviantOllam](https://www.youtube.com/@DeviantOllam)
 * [TheNotSoCivilEngr](https://www.youtube.com/@amihirata)
+  * [MIFARE Classic Technical Video](https://www.youtube.com/watch?v=PzYS7aHWOuU)
 * [Penthertz](https://www.youtube.com/@Penthertz)
 * [MTools Tec](https://www.youtube.com/@mtoolstec)
 
