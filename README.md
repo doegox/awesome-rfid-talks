@@ -134,6 +134,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * [Dangerous Things](https://www.youtube.com/@Dangerousthings)
 * [DeviantOllam](https://www.youtube.com/@DeviantOllam)
 * [TheNotSoCivilEngr](https://www.youtube.com/@amihirata)
+  * [MIFARE Classic Technical Video](https://www.youtube.com/watch?v=PzYS7aHWOuU)
 * [Penthertz](https://www.youtube.com/@Penthertz)
 * [MTools Tec](https://www.youtube.com/@mtoolstec)
 
