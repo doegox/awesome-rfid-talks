@@ -54,7 +54,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * DEF CON 23 - [RFIDiggity - Pentester Guide to Hacking HF/NFC and UHF RFID - Fran Brown & Shubham Shah](https://www.youtube.com/watch?v=7o38hyQWw6g)
 * BlackHat US 2015 - [Crash & Pay: Owning and Cloning Payment Devices - Peter Fillmore](https://www.youtube.com/watch?v=SLGl9X9LBv4)
 * BlackHat US 2015 - [Breaking Access Controls With BLEKey - Eric Evenchick & Mark Baseggio](https://www.youtube.com/watch?v=iH7VPUNz-dU)
-
+# CCC - 2015 [Sicherheit von 125kHz Transpondern am Beispiel Hitag S - Ralf Spenneberg et al](https://www.youtube.com/watch?v=bl8iQHEHdFg)
 
 ## 2016
 
