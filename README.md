@@ -92,6 +92,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * Kawaiicon 2019 - [Access Control on Sesame Street - Gallagher/Cardax access control system research - Matthew Daley](https://www.youtube.com/watch?v=brhXqyidiKo)
 * Ekoparty 2019 - [NFC analysis on transport systems in Argentina - Dan Borgogno](https://www.youtube.com/watch?v=XkKud0jAzCg) 🇪🇸
 * Hacker Hotel 2019 - [Nfc hacking - Thomas Roos](https://www.youtube.com/watch?v=Yus4z4szkcQ)
+* 36c3 - [Hacking an NFC toy with the ChameleonMini - Fptrs & Ceres-c](https://media.ccc.de/v/36c3-108-hacking-an-nfc-toy-with-the-chameleonmini)
 
 ## 2020
 
@@ -101,6 +102,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * EKO14 - [NFC Payments: The Art of Relay and Replay Attacks - Salvador Mendoza](https://www.youtube.com/watch?v=27TWFDWtV8E) 🇪🇸
 * PTS2020 - [Pique curiosity, not diabetic fingers - Axelle Apvrille, Travis Goodspeed](https://passthesalt.ubicast.tv/videos/2020-pique-curiosity-not-diabetic-fingers/)
 * WOOT'20 - [NFCGate: Opening the Door for NFC Security Research with a Smartphone-Based Toolkit - Klee, Roussos et al.](https://www.usenix.org/conference/woot20/presentation/klee)
+* 37c3 - [Toniebox Reverse Engineering - g3gg0 et al](https://www.youtube.com/watch?v=DNufX-tss5M)
 
 ## 2021
 
@@ -128,6 +130,8 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * SAINTCON - [RFID Hacking - Iceman](https://www.youtube.com/watch?v=FlAhh_aktWU)
 * CHCON - [Honey the kids tried crypto - Thomas Hobson](https://www.youtube.com/watch?v=dCvwlMbKJLE)
 
+* SEC-T - [How to Break into Organizations with Style - Julia Zdunczyk](https://www.youtube.com/watch?v=JW1ii01Rexk)
+
 # Youtube Channels
 
 * [Quentyn Taylor](https://www.youtube.com/@QuentynTaylor)
@@ -135,7 +139,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * [Dangerous Things](https://www.youtube.com/@Dangerousthings)
 * [DeviantOllam](https://www.youtube.com/@DeviantOllam)
 * [TheNotSoCivilEngr](https://www.youtube.com/@amihirata)
-  * [MIFARE Classic Technical Video](https://www.youtube.com/watch?v=PzYS7aHWOuU)
+* [MIFARE Classic Technical Video](https://www.youtube.com/watch?v=PzYS7aHWOuU)
 * [Penthertz](https://www.youtube.com/@Penthertz)
 * [MTools Tec](https://www.youtube.com/@mtoolstec)
 
