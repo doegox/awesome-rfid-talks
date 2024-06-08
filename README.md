@@ -129,8 +129,13 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * BRUCON 0X0F - [OSDP auditing for red teamers and facility managers - Knud Hojgaard](https://www.youtube.com/watch?v=uwKBKxdwJtc)
 * SAINTCON - [RFID Hacking - Iceman](https://www.youtube.com/watch?v=FlAhh_aktWU)
 * CHCON - [Honey the kids tried crypto - Thomas Hobson](https://www.youtube.com/watch?v=dCvwlMbKJLE)
-
 * SEC-T - [How to Break into Organizations with Style - Julia Zdunczyk](https://www.youtube.com/watch?v=JW1ii01Rexk)
+
+## 2024
+* EMF2024 - [Relive: Digital Skeleton Keys - We’ve got a bone to pick with offline Access Control Systems - Miana E Windall](https://streaming.media.ccc.de/emf2024/relive/80)
+* SSTIC 2024 - [Tears for fears, breaking an RFID counter — Jean-Joseph Marty, Pierre Granier, Rémy Delion](https://static.sstic.org/videos2024/1080p/tears_for_fears_breaking_an_rfid_counter.mp4) 🇫🇷
+* SSTIC 2024 - [Communications à grande distance avec un lecteur ISO 14443 — Pierre-Michel Ricordel, Yoan Burny ](https://static.sstic.org/videos2024/1080p/communications_a_grande_distance_avec_un_lecteur_iso_14443.mp4) 🇫🇷
+* GPN18 CCC 2024 - [RFID Payment Systems - free drinks and all you can eat - Gerhard Klostermeier](https://media.ccc.de/v/gpn22-446-rfid-payment-systems-free-drinks-and-all-you-can-eat#t=0)
 
 # Youtube Channels
 
