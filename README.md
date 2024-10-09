@@ -75,7 +75,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * LCA 2018 - [Tap On Reverse Engineering - Michael Farrell](https://www.youtube.com/watch?v=qVvNdfKRw7M)
 * CONFidence 2018 - [A 2018 practical guide to hacking RFID/NFC - Sławomir Jasek](https://www.youtube.com/watch?v=7GFhgv5jfZk)
 * HOPE 2018 - [Owning NFC Toys I Own: A Case Study - Vitorio Miliano](https://www.youtube.com/watch?v=0xawSK2dKqk)
-* HOPE 2018 - [Breath of the RF Field: Hacking Amiibo with Software-Defined Radio - James Chambers](hhttps://www.youtube.com/watch?v=-ZdkYLRydoI)
+* HOPE 2018 - [Breath of the RF Field: Hacking Amiibo with Software-Defined Radio - James Chambers](https://www.youtube.com/watch?v=-ZdkYLRydoI)
 * INFILTRATE 2018 - [Ghost in the locks - Tomi Tuominen, Timo Hirvonen](https://vimeo.com/267613809)
 * OzSecCon 2018 - [Project Walrus, an RFID and Contactless Card Cloning App - Daniel Underhay, Matthew Daley](https://www.youtube.com/watch?v=PKXlqKDk_BU)
 * GPN18 CCC 2018 - [RFID/NFC-Grundlagen - A Pentesters Perspective - Gerhard Klostermeier](https://www.youtube.com/watch?v=06nal8BuB2w)
@@ -132,7 +132,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * SEC-T - [How to Break into Organizations with Style - Julia Zdunczyk](https://www.youtube.com/watch?v=JW1ii01Rexk)
 
 ## 2024
-* EMF2024 - [Relive: Digital Skeleton Keys - We’ve got a bone to pick with offline Access Control Systems - Miana E Windall](https://streaming.media.ccc.de/emf2024/relive/80)
+* EMF2024 - [Relive: Digital Skeleton Keys - We’ve got a bone to pick with offline Access Control Systems - Miana E Windall](https://media.ccc.de/v/emf2024-80-digital-skeleton-keys-we-ve-got-a-bone-to-pick)
 * SSTIC 2024 - [Tears for fears, breaking an RFID counter — Jean-Joseph Marty, Pierre Granier, Rémy Delion](https://static.sstic.org/videos2024/1080p/tears_for_fears_breaking_an_rfid_counter.mp4) 🇫🇷
 * SSTIC 2024 - [Communications à grande distance avec un lecteur ISO 14443 — Pierre-Michel Ricordel, Yoan Burny ](https://static.sstic.org/videos2024/1080p/communications_a_grande_distance_avec_un_lecteur_iso_14443.mp4) 🇫🇷
 * GPN18 CCC 2024 - [RFID Payment Systems - free drinks and all you can eat - Gerhard Klostermeier](https://media.ccc.de/v/gpn22-446-rfid-payment-systems-free-drinks-and-all-you-can-eat#t=0)
@@ -144,8 +144,8 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * [Iceman](https://www.youtube.com/@iceman1001)
 * [Dangerous Things](https://www.youtube.com/@Dangerousthings)
 * [DeviantOllam](https://www.youtube.com/@DeviantOllam)
-* [TheNotSoCivilEngr](https://www.youtube.com/@amihirata)
-* [MIFARE Classic Technical Video](https://www.youtube.com/watch?v=PzYS7aHWOuU)
+* [TheNotSoCivilEngr](https://www.youtube.com/@amihirata) gone?
+  * [MIFARE Classic Technical Video](https://www.youtube.com/watch?v=PzYS7aHWOuU) gone?
 * [Penthertz](https://www.youtube.com/@Penthertz)
 * [MTools Tec](https://www.youtube.com/@mtoolstec)
 
