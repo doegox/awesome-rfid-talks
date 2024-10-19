@@ -137,6 +137,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * SSTIC 2024 - [Communications à grande distance avec un lecteur ISO 14443 — Pierre-Michel Ricordel, Yoan Burny ](https://static.sstic.org/videos2024/1080p/communications_a_grande_distance_avec_un_lecteur_iso_14443.mp4) 🇫🇷
 * GPN18 CCC 2024 - [RFID Payment Systems - free drinks and all you can eat - Gerhard Klostermeier](https://media.ccc.de/v/gpn22-446-rfid-payment-systems-free-drinks-and-all-you-can-eat#t=0)
 * _Nerding out with Viktor_ podcast - [RFID Hacking with Iceman: Exploring the Intricacies RFID Security — Christian Herrmann](https://vpetersson.com/podcast/S01E21.html)
+* BSides RDU 2024 - [All About Implantable RFID: Is Cyborgification Right for YOU? - Deviant Ollam](https://www.youtube.com/watch?v=3EFKJ9KaWGY)
 
 # Youtube Channels
 
