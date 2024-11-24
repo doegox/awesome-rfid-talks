@@ -138,6 +138,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * GPN18 CCC 2024 - [RFID Payment Systems - free drinks and all you can eat - Gerhard Klostermeier](https://media.ccc.de/v/gpn22-446-rfid-payment-systems-free-drinks-and-all-you-can-eat#t=0)
 * _Nerding out with Viktor_ podcast - [RFID Hacking with Iceman: Exploring the Intricacies RFID Security — Christian Herrmann](https://vpetersson.com/podcast/S01E21.html)
 * BSides RDU 2024 - [All About Implantable RFID: Is Cyborgification Right for YOU? - Deviant Ollam](https://www.youtube.com/watch?v=3EFKJ9KaWGY)
+* SecretCon 2024 - [How My DIY RFID Reader Became a Lifesaver - Dale Cook](https://www.youtube.com/watch?v=yirEXUiZuOM)
 
 # Youtube Channels
 
