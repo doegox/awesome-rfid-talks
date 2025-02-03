@@ -9,7 +9,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 ## Maintainers
 
 [doegox](https://twitter.com/doegox)  
-[herrmann1001](https://twitter.com/herrmann1001)  
+[iceman](https://twitter.com/herrmann1001)  
 *RFID Hacking by Iceman* Discord members  
 
 ## 2005
@@ -71,7 +71,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * DEF CON 26 - [NFC Payments The Art of Relay & Replay - Salvador Mendoza](https://www.youtube.com/watch?v=MVU3gbPnk0g)
 * HITBGSEC 2018 - [NFC Payments: The Art Of Relay And Replay Attacks - Salvador Mendoza](https://www.youtube.com/watch?v=e023wGfVaE0)
 * TR18 - [NFC Payments: The Art Of Relay And Replay Attacks - Salvador Mendoza & Leigh-Anne Galloway](https://www.youtube.com/watch?v=mWPwuBsFNrc)
-* BlackAlps 2018 - [Unlocking Secrets Of The Proxmark3 RDV4.0 - Christian Herrmann And Kevin Barker](https://www.youtube.com/watch?v=BBRE-bnNDKQ)
+* BlackAlps 2018 - [Unlocking Secrets Of The Proxmark3 RDV4.0 - Kevin Barker & Iceman](https://www.youtube.com/watch?v=BBRE-bnNDKQ)
 * LCA 2018 - [Tap On Reverse Engineering - Michael Farrell](https://www.youtube.com/watch?v=qVvNdfKRw7M)
 * CONFidence 2018 - [A 2018 practical guide to hacking RFID/NFC - Sławomir Jasek](https://www.youtube.com/watch?v=7GFhgv5jfZk)
 * HOPE 2018 - [Owning NFC Toys I Own: A Case Study - Vitorio Miliano](https://www.youtube.com/watch?v=0xawSK2dKqk)
@@ -82,10 +82,10 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 
 ## 2019
 
-* NULLCON Goa 2019 - [Unlocking secrets of the Proxmark3 RDV4.0 - Kevin Barker & Christian Herrmann](https://www.youtube.com/watch?v=1rTv8lyEtv8)
+* NULLCON Goa 2019 - [Unlocking secrets of the Proxmark3 RDV4.0 - Kevin Barker & Iceman](https://www.youtube.com/watch?v=1rTv8lyEtv8)
 * DEF CON 27 - [Basics of Hacking Physical Access Control Systems - Babak Javadi](https://www.youtube.com/watch?v=LS5OQHUJaJE)
-* DEF CON 27 - [WCTF DEFCON 27 Demo Iceman](https://www.youtube.com/watch?v=bMZY_R47phY)
-* PTS2019 - [Unlocking secrets of the Proxmark3 RDV4 - Christian Herrmann](https://passthesalt.ubicast.tv/videos/unlocking-secrets-of-the-proxmark3-rdv4/)
+* DEF CON 27 - [WCTF DEFCON 27 Demo - Iceman](https://www.youtube.com/watch?v=bMZY_R47phY)
+* PTS2019 - [Unlocking secrets of the Proxmark3 RDV4 - Iceman](https://passthesalt.ubicast.tv/videos/unlocking-secrets-of-the-proxmark3-rdv4/)
 * PTS2019 - [Reversing a Firmware uploader & others NFC stories - Aurélien Pocheville](https://passthesalt.ubicast.tv/videos/reversing-a-firmware-uploader-others-nfc-stories/)
 * HITBCyberWeek - [Building A GEN2 UHF RFID Reader With SDR - Adam Laurie](https://www.youtube.com/watch?v=QKi1OH8Zstk)
 * BSides Belfast 2019 - [New Attacks On The MIFARE DESFire EV1 Smartcard Used In Public Transportation - Rory Flynn](https://www.youtube.com/watch?v=ZSrOq40z1i8)
@@ -98,7 +98,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 
 * DEF CON 28 - [Ghosting the PACS-man: New Tools and Techniques - Omikron and Iceman](https://www.youtube.com/watch?v=ghiHXK4GEzE)
 * DEF CON 28 - [Beyond Root - Christopher Wade](https://www.youtube.com/watch?v=aLe-xW-Ws4c)
-* PACSEC 2020 - [RFID Security Panel - Adam Laurie , Christian Herrmann, Babak Javadi, Samy Kamkar, Phillippe Teuwen, Chrissy Morgan](https://www.youtube.com/watch?v=uMCBsU6LPxk)
+* PACSEC 2020 - [RFID Security Panel - Adam Laurie , Iceman, Babak Javadi, Samy Kamkar, Phillippe Teuwen, Chrissy Morgan](https://www.youtube.com/watch?v=uMCBsU6LPxk)
 * EKO14 - [NFC Payments: The Art of Relay and Replay Attacks - Salvador Mendoza](https://www.youtube.com/watch?v=27TWFDWtV8E) 🇪🇸
 * PTS2020 - [Pique curiosity, not diabetic fingers - Axelle Apvrille, Travis Goodspeed](https://passthesalt.ubicast.tv/videos/2020-pique-curiosity-not-diabetic-fingers/)
 * WOOT'20 - [NFCGate: Opening the Door for NFC Security Research with a Smartphone-Based Toolkit - Klee, Roussos et al.](https://www.usenix.org/conference/woot20/presentation/klee)
@@ -108,15 +108,15 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 
 * DEF CON 29 - [The PACS man Comes For Us All - Babak Javadi, Nick Draffen, Eric Bettse, Anze Jensterle](https://www.youtube.com/watch?v=NARJrwX_KFY)
 * DEF CON 29 - [PINATA PIN Automatic Try Attack - Salvador Mendoza](https://www.youtube.com/watch?v=VOIvEqjJNOY) + [Live](https://www.youtube.com/watch?v=meRL_JXDQpk)
-* SSTIC 2019 - [EEPROM: It Will All End in Tears — Christian Herrmann, Philippe Teuwen](https://static.sstic.org/videos2021/1080p/vostfr-eeprom_it_will_all_end_in_tears.mp4) 🇫🇷/🇬🇧
+* SSTIC 2019 - [EEPROM: It Will All End in Tears — Iceman, Philippe Teuwen](https://static.sstic.org/videos2021/1080p/vostfr-eeprom_it_will_all_end_in_tears.mp4) 🇫🇷/🇬🇧
 * DEF CON 29 - RF Village talk [How low can you Go Vechicle Low Frequency Signals With Portapak - Woody](https://www.youtube.com/watch?v=2eLQmk-r1XU)
-* Hardwear.io - [EEPROM: It Will All End in Tears — Christian Herrmann, Philippe Teuwen](https://youtu.be/zZp5h0Tdkhk)
+* Hardwear.io - [EEPROM: It Will All End in Tears — Iceman, Philippe Teuwen](https://youtu.be/zZp5h0Tdkhk)
 
 ## 2022
 
 * DEF CON 30 - RF Village talk [Pwning  RFID Physical Access 6FT and Beyond - Langston Clement & Daniel Goga](https://www.youtube.com/watch?v=J6vTovVogq4)
 * DEF CON 30 - [Digital Skeleton Keys - Miana E Windall, Micsen](https://www.youtube.com/watch?v=G2EE_yA7OyI)
-* DEF CON 30 - RF Village talk [Rip and tear - Iceman & Kevin Barker](https://www.youtube.com/watch?v=MKSXSKQHz6o)
+* DEF CON 30 - RF Village talk [Rip and tear - Kevin Barker & Iceman](https://www.youtube.com/watch?v=MKSXSKQHz6o)
 
 ## 2023
 
@@ -136,7 +136,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * SSTIC 2024 - [Tears for fears, breaking an RFID counter — Jean-Joseph Marty, Pierre Granier, Rémy Delion](https://static.sstic.org/videos2024/1080p/tears_for_fears_breaking_an_rfid_counter.mp4) 🇫🇷
 * SSTIC 2024 - [Communications à grande distance avec un lecteur ISO 14443 — Pierre-Michel Ricordel, Yoan Burny ](https://static.sstic.org/videos2024/1080p/communications_a_grande_distance_avec_un_lecteur_iso_14443.mp4) 🇫🇷
 * GPN18 CCC 2024 - [RFID Payment Systems - free drinks and all you can eat - Gerhard Klostermeier](https://media.ccc.de/v/gpn22-446-rfid-payment-systems-free-drinks-and-all-you-can-eat#t=0)
-* _Nerding out with Viktor_ podcast - [RFID Hacking with Iceman: Exploring the Intricacies RFID Security — Christian Herrmann](https://vpetersson.com/podcast/S01E21.html)
+* _Nerding out with Viktor_ podcast - [RFID Hacking with Iceman: Exploring the Intricacies RFID Security — Iceman](https://vpetersson.com/podcast/S01E21.html)
 * BSides RDU 2024 - [All About Implantable RFID: Is Cyborgification Right for YOU? - Deviant Ollam](https://www.youtube.com/watch?v=3EFKJ9KaWGY)
 * SecretCon 2024 - [How My DIY RFID Reader Became a Lifesaver - Dale Cook](https://www.youtube.com/watch?v=yirEXUiZuOM)
 * DEF CON 32 - [Unsaflok: Hacking millions of hotel locks - Lennert Wouters, Ian Carroll](https://youtu.be/4cx0RUV7i0s?si=zB1ISihWnU9XSgsQ) [[slides](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Lennert%20Wouters%20Ian%20Carroll%20-%20Unsaflok%20-%20Hacking%20millions%20of%20hotel%20locks.pdf)]
@@ -144,6 +144,8 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * DEF CON 32 - [Mutual authentication is optional - Xavier Zhang](https://www.youtube.com/watch?v=zH6qbJuqhOM)
 * DEF CON 32 - RF Village talk [iClass - Throwing away the keys - Tiernan Messmer](https://www.youtube.com/watch?v=Eef70bSRl_0)
 
+## 2025
+- to be done -
 
 # Youtube Channels
 
