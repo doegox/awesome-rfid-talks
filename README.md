@@ -141,6 +141,9 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * SecretCon 2024 - [How My DIY RFID Reader Became a Lifesaver - Dale Cook](https://www.youtube.com/watch?v=yirEXUiZuOM)
 * DEF CON 32 - [Unsaflok: Hacking millions of hotel locks - Lennert Wouters, Ian Carroll](https://youtu.be/4cx0RUV7i0s?si=zB1ISihWnU9XSgsQ) [[slides](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Lennert%20Wouters%20Ian%20Carroll%20-%20Unsaflok%20-%20Hacking%20millions%20of%20hotel%20locks.pdf)]
 * DEF CON 32 - [Hi-Intensity Deconstruction: Chronicles of a Cryptographic Heist - Javadi, Levy, Draffe](https://youtu.be/EvbNQnZlPJg?si=ZWk1GbYQD_5l9jvk) [[slides](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Babak%20Javadi%20Aaron%20Levy%20Nick%20Draffen%20-%20High%20Intensity%20Deconstruction%20Chronicles%20of%20a%20Cryptographic%20Heist.pdf)]
+* DEF CON 32 - [Mutual authentication is optional - Xavier Zhang](https://www.youtube.com/watch?v=zH6qbJuqhOM)
+* DEF CON 32 - RF Village talk [iClass - Throwing away the keys - Tiernan Messmer](https://www.youtube.com/watch?v=Eef70bSRl_0)
+
 
 # Youtube Channels
 
