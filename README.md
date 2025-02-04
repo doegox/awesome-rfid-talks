@@ -41,6 +41,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 
 * DEF CON 21 - [RFID Hacking Live Free or RFID Hard - Francis Brown](https://www.youtube.com/watch?v=duzpEtkmAnI)
 * BlackHat US 2013 - [RFID Hacking: Live Free or RFID Hard - Francis Brown](https://www.youtube.com/watch?v=LcY3VJqi0Xo)
+* Tedx SFU - [Biohacking - the forefront of a new kind of human evolution - Amal Graafstra](https://www.youtube.com/watch?v=7DxVWhFLI6E)
 
 ## 2014
 
