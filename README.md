@@ -131,6 +131,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * SAINTCON - [RFID Hacking - Iceman](https://www.youtube.com/watch?v=FlAhh_aktWU)
 * CHCON - [Honey the kids tried crypto - Thomas Hobson](https://www.youtube.com/watch?v=dCvwlMbKJLE)
 * SEC-T - [How to Break into Organizations with Style - Julia Zdunczyk](https://www.youtube.com/watch?v=JW1ii01Rexk)
+* SCSC - [NFC Emulator iPhone Attack | Over-The-Limit Payment Without Phone Unlock - Ioana Boureanu](https://www.youtube.com/watch?v=nMIMxLbSE-4)
 
 ## 2024
 * EMF2024 - [Relive: Digital Skeleton Keys - We’ve got a bone to pick with offline Access Control Systems - Miana E Windall](https://media.ccc.de/v/emf2024-80-digital-skeleton-keys-we-ve-got-a-bone-to-pick)
