@@ -145,6 +145,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * DEF CON 32 - [Hi-Intensity Deconstruction: Chronicles of a Cryptographic Heist - Javadi, Levy, Draffe](https://youtu.be/EvbNQnZlPJg?si=ZWk1GbYQD_5l9jvk) [[slides](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Babak%20Javadi%20Aaron%20Levy%20Nick%20Draffen%20-%20High%20Intensity%20Deconstruction%20Chronicles%20of%20a%20Cryptographic%20Heist.pdf)]
 * DEF CON 32 - [Mutual authentication is optional - Xavier Zhang](https://www.youtube.com/watch?v=zH6qbJuqhOM)
 * DEF CON 32 - RF Village talk [iClass - Throwing away the keys - Tiernan Messmer](https://www.youtube.com/watch?v=Eef70bSRl_0)
+* BSidesLV - John-André Bjørkhaug  [PW - All your badge are belong to me](https://www.youtube.com/watch?v=DqIwW6nUfWA)
 
 ## 2025
 - to be done -
