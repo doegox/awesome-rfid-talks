@@ -146,6 +146,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * DEF CON 32 - [Mutual authentication is optional - Xavier Zhang](https://www.youtube.com/watch?v=zH6qbJuqhOM)
 * DEF CON 32 - RF Village talk [iClass - Throwing away the keys - Tiernan Messmer](https://www.youtube.com/watch?v=Eef70bSRl_0)
 * BSidesLV - John-André Bjørkhaug  [PW - All your badge are belong to me](https://www.youtube.com/watch?v=DqIwW6nUfWA)
+* BSides Tallinn 2024 - Iceman [Bsides Tallinn 2024 - Keynote speaker Iceman](https://www.youtube.com/watch?v=rrgD2AJLRwQ)
 
 ## 2025
 - to be done -
