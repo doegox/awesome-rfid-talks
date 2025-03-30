@@ -111,7 +111,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * DEF CON 29 - [PINATA PIN Automatic Try Attack - Salvador Mendoza](https://www.youtube.com/watch?v=VOIvEqjJNOY) + [Live](https://www.youtube.com/watch?v=meRL_JXDQpk)
 * SSTIC 2019 - [EEPROM: It Will All End in Tears — Iceman, Philippe Teuwen](https://static.sstic.org/videos2021/1080p/vostfr-eeprom_it_will_all_end_in_tears.mp4) 🇫🇷/🇬🇧
 * DEF CON 29 - RF Village talk [How low can you Go Vechicle Low Frequency Signals With Portapak - Woody](https://www.youtube.com/watch?v=2eLQmk-r1XU)
-* Hardwear.io - [EEPROM: It Will All End in Tears — Iceman, Philippe Teuwen](https://youtu.be/zZp5h0Tdkhk)
+* Hardwear.io NL - [EEPROM: It Will All End in Tears — Iceman, Philippe Teuwen](https://youtu.be/zZp5h0Tdkhk)
 
 ## 2022
 
@@ -121,7 +121,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 
 ## 2023
 
-* HardwearIO - ["Un-fare Advantage” - Hacking The MBTA CharlieCard From 2008 To Present - Bobby Rauch](https://www.youtube.com/watch?v=me6FyrDRlD4)
+* Hardwear.io USA - ["Un-fare Advantage” - Hacking The MBTA CharlieCard From 2008 To Present - Bobby Rauch](https://www.youtube.com/watch?v=me6FyrDRlD4)
 * DEF CON 31 - [Infinite Money Glitch - Hacking Transit Cards - Bertocchi, Campbell, Gibson, Harris ](https://youtu.be/1JT_lTfK69Q?si=PQ6LuGoVwXDPVW0F)
 * DEF CON 31 - [Unlocking Doors from Half a Continent Away - Trevor Stevado, Sam Haskins](https://youtu.be/rogtZjpyoVQ?si=OIvppFGb9-HGcnRw)
 * DEF CON 31 - [Contactless Overflow Code Execution in Payment Terminals & ATMs - Josep Rodriguez](https://youtu.be/eV76vObO2IM?si=7AMxAxnW4NQuj8jP)
@@ -145,8 +145,10 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * DEF CON 32 - [Hi-Intensity Deconstruction: Chronicles of a Cryptographic Heist - Javadi, Levy, Draffe](https://youtu.be/EvbNQnZlPJg?si=ZWk1GbYQD_5l9jvk) [[slides](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Babak%20Javadi%20Aaron%20Levy%20Nick%20Draffen%20-%20High%20Intensity%20Deconstruction%20Chronicles%20of%20a%20Cryptographic%20Heist.pdf)]
 * DEF CON 32 - [Mutual authentication is optional - Xavier Zhang](https://www.youtube.com/watch?v=zH6qbJuqhOM)
 * DEF CON 32 - RF Village talk [iClass - Throwing away the keys - Tiernan Messmer](https://www.youtube.com/watch?v=Eef70bSRl_0)
-* BSidesLV - John-André Bjørkhaug  [PW - All your badge are belong to me](https://www.youtube.com/watch?v=DqIwW6nUfWA)
-* BSides Tallinn 2024 - Iceman [Bsides Tallinn 2024 - Keynote speaker Iceman](https://www.youtube.com/watch?v=rrgD2AJLRwQ)
+* BSidesLV - [PW - All your badge are belong to me - John-André Bjørkhaug](https://www.youtube.com/watch?v=DqIwW6nUfWA)
+* BSides Tallinn 2024 - [Keynote speaker Iceman](https://www.youtube.com/watch?v=rrgD2AJLRwQ)
+* Hardwear.io NL 2024 - [MIFARE Classic: exposing the _static encrypted nonce_ variant - Philippe Teuwen](https://www.youtube.com/watch?v=rdH4dbshGUU) [[slides](https://raw.githubusercontent.com/doegox/bibliography/refs/heads/main/slides/2024_Hardwear.io_NL_Mifare.pdf)], invited at Grehack [[video](https://www.youtube.com/live/UMcHWx4speo?t=7541)/[slides](https://raw.githubusercontent.com/doegox/bibliography/refs/heads/main/slides/2024_GREHACK_Mifare.pdf)], invited at COSIC Seminar [[video](https://www.youtube.com/watch?v=uw8N4IhQc0s)/[slides](https://raw.githubusercontent.com/doegox/bibliography/refs/heads/main/slides/2024_COSIC_Mifare.pdf)], [[paper](https://eprint.iacr.org/2024/1275)]
+
 
 ## 2025
 - to be done -
