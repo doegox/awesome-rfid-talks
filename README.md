@@ -127,7 +127,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * DEF CON 31 - [Contactless Overflow Code Execution in Payment Terminals & ATMs - Josep Rodriguez](https://www.youtube.com/watch?v=eV76vObO2IM)
 * DEF CON 31 - [Badge of Shame Breaking into Secure Facilities with OSDP - Dan Petro, David Vargas](https://www.youtube.com/watch?v=zNpM_l5l0sE)
 * DEF CON 31 - War Stories [Designing RFID Implants Flipping the Bird Opens Doors - Miana Ella Windall](https://www.youtube.com/watch?v=OyRxapMjLP0)
-* DEFCON Paris - [ST25TB series NFC tags for fun - Benjamin Delpy](https://www.youtube.com/watch?v=CP0lt2ulJwE)
+* DEFCON Paris - [ST25TB series NFC tags for fun - Benjamin Delpy](https://www.youtube.com/watch?v=CP0lt2ulJwE) 🇫🇷
 * BRUCON 0X0F - [OSDP auditing for red teamers and facility managers - Knud Hojgaard](https://www.youtube.com/watch?v=uwKBKxdwJtc)
 * SAINTCON - [RFID Hacking - Iceman](https://www.youtube.com/watch?v=FlAhh_aktWU)
 * CHCON - [Honey the kids tried crypto - Thomas Hobson](https://www.youtube.com/watch?v=dCvwlMbKJLE)
