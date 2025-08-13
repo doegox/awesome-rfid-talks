@@ -152,7 +152,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 
 
 ## 2025
-- to be done -
+* WHY 2025 - [Decoding RFID: A comprehensive overview of security, attacks, and the latest innovations - Kirils, Iceman](https://www.youtube.com/watch?v=gdoy8Qv1XVc)
 
 # Youtube Channels
 
