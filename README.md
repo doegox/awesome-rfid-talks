@@ -59,6 +59,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 
 ## 2016
 
+* Shmoocon 2016 - [Be Free Little Guardbunny - Kirsten Paget](https://www.youtube.com/watch?v=aGcykuhfcQA)
 * DEF CON 24 - [Samsung Pay: Tokenized Numbers, Flaws and Issues - Salvador Mendoza](https://www.youtube.com/watch?v=BqjyewIEFSc)
 
 ## 2017
