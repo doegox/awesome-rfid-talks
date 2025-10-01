@@ -95,6 +95,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * Ekoparty 2019 - [NFC analysis on transport systems in Argentina - Dan Borgogno](https://www.youtube.com/watch?v=XkKud0jAzCg) 🇪🇸
 * Hacker Hotel 2019 - [Nfc hacking - Thomas Roos](https://www.youtube.com/watch?v=Yus4z4szkcQ)
 * 36c3 - [Hacking an NFC toy with the ChameleonMini - Fptrs & Ceres-c](https://media.ccc.de/v/36c3-108-hacking-an-nfc-toy-with-the-chameleonmini)
+* ToorCon 21 - [CARD CLONING DOESN'T HAVE TO BE HARD - David Bryan](https://www.youtube.com/watch?v=hhIMpNbMCEA)
 
 ## 2020
 
