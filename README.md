@@ -156,7 +156,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 ## 2025
 * WHY 2025 - [Decoding RFID: A comprehensive overview of security, attacks, and the latest innovations - Kirils, Iceman](https://www.youtube.com/watch?v=gdoy8Qv1XVc)
 * DEF CON 33 - RF Village talk [Hung out to dry: Airing the dirty laundry of stored value washing cards - Equip, Luu](https://www.youtube.com/watch?v=ucHO499ie2c)
-# Black Hat ASIA 25 - [Behind Closed Doors - Bypassing RFID Readers - Julia Zduńczyk](https://www.youtube.com/watch?v=0NCnjx5wuns)
+* Black Hat ASIA 25 - [Behind Closed Doors - Bypassing RFID Readers - Julia Zduńczyk](https://www.youtube.com/watch?v=0NCnjx5wuns)
 
 
 # Youtube Channels
