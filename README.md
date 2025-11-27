@@ -33,8 +33,8 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 
 ## 2012
 
-* DEFCON 20 - [NFC Hacking: The Easy Way - Eddie Lee](https://www.youtube.com/watch?v=7ElZBI9PufY)
-* DEFCON 20 - [Don't Stand So Close To Me: An Analysis of the NFC Attack Surface - Charlie Miller](https://www.youtube.com/watch?v=16FKOQ1gx68)
+* DEF CON 20 - [NFC Hacking: The Easy Way - Eddie Lee](https://www.youtube.com/watch?v=7ElZBI9PufY)
+* DEF CON 20 - [Don't Stand So Close To Me: An Analysis of the NFC Attack Surface - Charlie Miller](https://www.youtube.com/watch?v=16FKOQ1gx68)
 * HES 2012 - [Hacking the NFC credit cards for fun and debit - Renaud Lifchitz](https://www.youtube.com/watch?v=VWIzW0rRw_s)
 
 ## 2013
@@ -154,10 +154,12 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 
 
 ## 2025
-* WHY 2025 - [Decoding RFID: A comprehensive overview of security, attacks, and the latest innovations - Kirils, Iceman](https://www.youtube.com/watch?v=gdoy8Qv1XVc)
-* DEF CON 33 - RF Village talk [Hung out to dry: Airing the dirty laundry of stored value washing cards - Equip, Luu](https://www.youtube.com/watch?v=ucHO499ie2c)
 * Black Hat ASIA 25 - [Behind Closed Doors - Bypassing RFID Readers - Julia Zduńczyk](https://www.youtube.com/watch?v=0NCnjx5wuns)
 * Black Hat ASIA 25 - [Dismantling the SEOS Protocol - Iceman, Adam Foster](https://www.youtube.com/watch?v=mnhGx1i6x08)
+* Troopers 2025 - [Decoding RFID - A comprehensive overview of security, attacks and the latest innovations - Kirils, Iceman](https://www.youtube.com/watch?v=5kAN3hfRWOA)
+* WHY 2025 - [Decoding RFID: A comprehensive overview of security, attacks, and the latest innovations - Kirils, Iceman](https://www.youtube.com/watch?v=gdoy8Qv1XVc)
+* DEF CON 33 - RF Village talk [Hung out to dry: Airing the dirty laundry of stored value washing cards - Equip, Luu](https://www.youtube.com/watch?v=ucHO499ie2c)
+
 
 
 # Youtube Channels
