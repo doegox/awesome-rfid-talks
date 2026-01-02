@@ -159,8 +159,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * Troopers 2025 - [Decoding RFID - A comprehensive overview of security, attacks and the latest innovations - Kirils, Iceman](https://www.youtube.com/watch?v=5kAN3hfRWOA)
 * WHY 2025 - [Decoding RFID: A comprehensive overview of security, attacks, and the latest innovations - Kirils, Iceman](https://www.youtube.com/watch?v=gdoy8Qv1XVc)
 * DEF CON 33 - RF Village talk [Hung out to dry: Airing the dirty laundry of stored value washing cards - Equip, Luu](https://www.youtube.com/watch?v=ucHO499ie2c)
-
-
+* SAINTCON - [SAINTCON 2025 - Jurrasic RFID World?! (or not...) - Iceman](https://www.youtube.com/watch?v=psit0UBhV28)
 
 # Youtube Channels
 
