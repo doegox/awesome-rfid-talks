@@ -161,6 +161,9 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * DEF CON 33 - RF Village talk [Hung out to dry: Airing the dirty laundry of stored value washing cards - Equip, Luu](https://www.youtube.com/watch?v=ucHO499ie2c)
 * SAINTCON 2025 - [Jurassic RFID World?! (or not...) - Iceman](https://www.youtube.com/watch?v=psit0UBhV28)
 
+## 2026
+* BSidesSLC - [Rapid RFID: An Explosive, Live-Action PACS Hacking Experience! - Evan Cook](https://www.youtube.com/watch?v=UbCxSDWRlDk)
+
 # Youtube Channels
 
 * [Quentyn Taylor](https://www.youtube.com/@QuentynTaylor)
